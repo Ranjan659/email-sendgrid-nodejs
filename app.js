@@ -1,3 +1,9 @@
+/*
+
+      NODEMAILER NOT WORKING 
+      
+*/
+
 const nodemailer = require("nodemailer");
 
 // async..await is not allowed in global scope, must use a wrapper
